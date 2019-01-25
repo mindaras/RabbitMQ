@@ -1,2 +1,2 @@
 # RabbitMQ
-RabbitMQ pattern examples using .NET Core
+RabbitMQ pattern examples using .NET Core.
