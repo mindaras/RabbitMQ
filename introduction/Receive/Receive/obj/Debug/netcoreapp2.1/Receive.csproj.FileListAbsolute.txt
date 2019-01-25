@@ -1,0 +1,11 @@
+/Users/mindaugaslazauskas/rabbitmq/introduction/Receive/Receive/bin/Debug/netcoreapp2.1/Receive.deps.json
+/Users/mindaugaslazauskas/rabbitmq/introduction/Receive/Receive/bin/Debug/netcoreapp2.1/Receive.runtimeconfig.json
+/Users/mindaugaslazauskas/rabbitmq/introduction/Receive/Receive/bin/Debug/netcoreapp2.1/Receive.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/rabbitmq/introduction/Receive/Receive/bin/Debug/netcoreapp2.1/Receive.dll
+/Users/mindaugaslazauskas/rabbitmq/introduction/Receive/Receive/bin/Debug/netcoreapp2.1/Receive.pdb
+/Users/mindaugaslazauskas/rabbitmq/introduction/Receive/Receive/obj/Debug/netcoreapp2.1/Receive.csprojAssemblyReference.cache
+/Users/mindaugaslazauskas/rabbitmq/introduction/Receive/Receive/obj/Debug/netcoreapp2.1/Receive.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/rabbitmq/introduction/Receive/Receive/obj/Debug/netcoreapp2.1/Receive.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/rabbitmq/introduction/Receive/Receive/obj/Debug/netcoreapp2.1/Receive.AssemblyInfo.cs
+/Users/mindaugaslazauskas/rabbitmq/introduction/Receive/Receive/obj/Debug/netcoreapp2.1/Receive.dll
+/Users/mindaugaslazauskas/rabbitmq/introduction/Receive/Receive/obj/Debug/netcoreapp2.1/Receive.pdb

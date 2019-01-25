@@ -1,0 +1,11 @@
+/Users/mindaugaslazauskas/rabbitmq/introduction/Send/Send/bin/Debug/netcoreapp2.1/Send.deps.json
+/Users/mindaugaslazauskas/rabbitmq/introduction/Send/Send/bin/Debug/netcoreapp2.1/Send.runtimeconfig.json
+/Users/mindaugaslazauskas/rabbitmq/introduction/Send/Send/bin/Debug/netcoreapp2.1/Send.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/rabbitmq/introduction/Send/Send/bin/Debug/netcoreapp2.1/Send.dll
+/Users/mindaugaslazauskas/rabbitmq/introduction/Send/Send/bin/Debug/netcoreapp2.1/Send.pdb
+/Users/mindaugaslazauskas/rabbitmq/introduction/Send/Send/obj/Debug/netcoreapp2.1/Send.csprojAssemblyReference.cache
+/Users/mindaugaslazauskas/rabbitmq/introduction/Send/Send/obj/Debug/netcoreapp2.1/Send.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/rabbitmq/introduction/Send/Send/obj/Debug/netcoreapp2.1/Send.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/rabbitmq/introduction/Send/Send/obj/Debug/netcoreapp2.1/Send.AssemblyInfo.cs
+/Users/mindaugaslazauskas/rabbitmq/introduction/Send/Send/obj/Debug/netcoreapp2.1/Send.dll
+/Users/mindaugaslazauskas/rabbitmq/introduction/Send/Send/obj/Debug/netcoreapp2.1/Send.pdb
