@@ -1,9 +1,5 @@
 ﻿<Properties StartupConfiguration="{98D8B820-0595-46A7-9702-D6D5B91EDB16}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Send.cs">
-    <Files>
-      <File FileName="Send.cs" Line="13" Column="64" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.ItemProperties.Send PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

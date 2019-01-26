@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{E3E82264-17AD-4504-B988-06622F563458}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NewTask/NewTask.cs">
+    <Files>
+      <File FileName="NewTask/NewTask.cs" Line="5" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.NewTask FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
