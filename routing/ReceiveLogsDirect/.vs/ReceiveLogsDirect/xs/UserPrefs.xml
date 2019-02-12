@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{1246248E-DBD5-46B7-85BD-B81D0AB42949}|Default">
+  <MonoDevelop.Ide.ItemProperties.ReceiveLogsDirect FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReceiveLogsDirect/Program.cs">
+    <Files>
+      <File FileName="ReceiveLogsDirect/Program.cs" Line="5" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

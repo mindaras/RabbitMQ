@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{B85171D9-2F1F-45B2-8CB8-2C9A7924EA4E}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ReceiveLogs/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReceiveLogs/ReceiveLogs.cs">
     <Files>
-      <File FileName="ReceiveLogs/Program.cs" Line="1" Column="1" />
+      <File FileName="ReceiveLogs/ReceiveLogs.cs" Line="25" Column="67" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
