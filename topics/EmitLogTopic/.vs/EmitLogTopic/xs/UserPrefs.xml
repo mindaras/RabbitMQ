@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{7762A451-8F86-47D7-BD6A-21CA9CF07A51}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EmitLogTopic/EmitLogTopic.cs">
+    <Files>
+      <File FileName="EmitLogTopic/EmitLogTopic.cs" Line="19" Column="81" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EmitLogTopic FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

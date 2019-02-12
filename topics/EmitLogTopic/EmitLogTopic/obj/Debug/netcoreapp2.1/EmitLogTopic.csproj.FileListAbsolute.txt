@@ -1,0 +1,11 @@
+/Users/mindaugaslazauskas/rabbitmq/topics/EmitLogTopic/EmitLogTopic/bin/Debug/netcoreapp2.1/EmitLogTopic.deps.json
+/Users/mindaugaslazauskas/rabbitmq/topics/EmitLogTopic/EmitLogTopic/bin/Debug/netcoreapp2.1/EmitLogTopic.runtimeconfig.json
+/Users/mindaugaslazauskas/rabbitmq/topics/EmitLogTopic/EmitLogTopic/bin/Debug/netcoreapp2.1/EmitLogTopic.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/rabbitmq/topics/EmitLogTopic/EmitLogTopic/bin/Debug/netcoreapp2.1/EmitLogTopic.dll
+/Users/mindaugaslazauskas/rabbitmq/topics/EmitLogTopic/EmitLogTopic/bin/Debug/netcoreapp2.1/EmitLogTopic.pdb
+/Users/mindaugaslazauskas/rabbitmq/topics/EmitLogTopic/EmitLogTopic/obj/Debug/netcoreapp2.1/EmitLogTopic.csprojAssemblyReference.cache
+/Users/mindaugaslazauskas/rabbitmq/topics/EmitLogTopic/EmitLogTopic/obj/Debug/netcoreapp2.1/EmitLogTopic.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/rabbitmq/topics/EmitLogTopic/EmitLogTopic/obj/Debug/netcoreapp2.1/EmitLogTopic.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/rabbitmq/topics/EmitLogTopic/EmitLogTopic/obj/Debug/netcoreapp2.1/EmitLogTopic.AssemblyInfo.cs
+/Users/mindaugaslazauskas/rabbitmq/topics/EmitLogTopic/EmitLogTopic/obj/Debug/netcoreapp2.1/EmitLogTopic.dll
+/Users/mindaugaslazauskas/rabbitmq/topics/EmitLogTopic/EmitLogTopic/obj/Debug/netcoreapp2.1/EmitLogTopic.pdb

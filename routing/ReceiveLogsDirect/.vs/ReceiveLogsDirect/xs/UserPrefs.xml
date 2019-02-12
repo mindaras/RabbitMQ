@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{1246248E-DBD5-46B7-85BD-B81D0AB42949}|Default">
   <MonoDevelop.Ide.ItemProperties.ReceiveLogsDirect FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ReceiveLogsDirect/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReceiveLogsDirect/ReceiveLogsDirect.cs">
     <Files>
-      <File FileName="ReceiveLogsDirect/Program.cs" Line="5" Column="28" />
+      <File FileName="ReceiveLogsDirect/ReceiveLogsDirect.cs" Line="27" Column="40" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
