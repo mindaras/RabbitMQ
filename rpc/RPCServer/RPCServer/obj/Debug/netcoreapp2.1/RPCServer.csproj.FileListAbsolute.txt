@@ -1,0 +1,11 @@
+/Users/mindaugaslazauskas/rabbitmq/rpc/RPCServer/RPCServer/bin/Debug/netcoreapp2.1/RPCServer.deps.json
+/Users/mindaugaslazauskas/rabbitmq/rpc/RPCServer/RPCServer/bin/Debug/netcoreapp2.1/RPCServer.runtimeconfig.json
+/Users/mindaugaslazauskas/rabbitmq/rpc/RPCServer/RPCServer/bin/Debug/netcoreapp2.1/RPCServer.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/rabbitmq/rpc/RPCServer/RPCServer/bin/Debug/netcoreapp2.1/RPCServer.dll
+/Users/mindaugaslazauskas/rabbitmq/rpc/RPCServer/RPCServer/bin/Debug/netcoreapp2.1/RPCServer.pdb
+/Users/mindaugaslazauskas/rabbitmq/rpc/RPCServer/RPCServer/obj/Debug/netcoreapp2.1/RPCServer.csprojAssemblyReference.cache
+/Users/mindaugaslazauskas/rabbitmq/rpc/RPCServer/RPCServer/obj/Debug/netcoreapp2.1/RPCServer.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/rabbitmq/rpc/RPCServer/RPCServer/obj/Debug/netcoreapp2.1/RPCServer.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/rabbitmq/rpc/RPCServer/RPCServer/obj/Debug/netcoreapp2.1/RPCServer.AssemblyInfo.cs
+/Users/mindaugaslazauskas/rabbitmq/rpc/RPCServer/RPCServer/obj/Debug/netcoreapp2.1/RPCServer.dll
+/Users/mindaugaslazauskas/rabbitmq/rpc/RPCServer/RPCServer/obj/Debug/netcoreapp2.1/RPCServer.pdb

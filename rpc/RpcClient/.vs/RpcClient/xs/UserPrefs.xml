@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{2AB6FA8A-6C71-46AA-9C3A-E7041CCB9C0B}|Default">
+  <MonoDevelop.Ide.ItemProperties.RpcClient FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RpcClient/Program.cs">
+    <Files>
+      <File FileName="RpcClient/Program.cs" Line="76" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
